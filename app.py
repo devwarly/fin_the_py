@@ -37,3 +37,5 @@ if msg in ["S", "s", "sim", "Sim"]:
                 print('Você não escolheu nenhum plano válido, tente novamente!')
         else:
             print('Certo, se mudar de ideia é só entrar em contato, obrigado!')
+else:
+    print('Obrigado, caso mude ideia estarei aqui!')
